@@ -1,0 +1,6 @@
+body { margin: 0; font-family: sans-serif; }
+.app-container { padding: 20px; }
+.chat-container { max-width: 600px; margin: auto; border: 1px solid #ccc; padding: 10px; border-radius: 10px; }
+.messages { min-height: 300px; margin-bottom: 10px; }
+.user { text-align: right; color: blue; }
+.bot { text-align: left; color: green; }
